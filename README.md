@@ -1,6 +1,6 @@
 # Portfolio_Dimple
 
-live site : https://remarkable-portfolio-6e880a.netlify.app/
+live site : https://superb-portfolio-d71b90.netlify.app/
 
 A modern and interactive portfolio website built with React and GSAP animations. It includes sections for Resume, Projects, and a Contact Form (powered by Formspree).
 
